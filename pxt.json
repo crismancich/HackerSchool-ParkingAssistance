@@ -1,5 +1,5 @@
 {
-    "name": "Car Sensor",
+    "name": "Receiver",
     "description": "",
     "dependencies": {
         "core": "*",
